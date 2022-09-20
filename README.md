@@ -9,6 +9,10 @@
 ![image](https://user-images.githubusercontent.com/86399894/191139976-9cda1b7b-9d15-4456-bf93-e3737544305f.png)
 
 ## Activity 4
+     
+Link: https://github.com/ishtiakn/ECE444-F2022-Lab1.git
+![image](https://user-images.githubusercontent.com/86399894/191155398-c94c0496-7879-4d7d-9323-12af3735b818.png)
+
 ## Activity 5
 ![image](https://user-images.githubusercontent.com/86399894/191143404-e731cc7c-d913-4b22-83f8-94b718a44ce6.png)
 
